@@ -1,0 +1,16 @@
+name = "Fabric Lite 1.18.2"
+author = "Wine"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e1d1b384764834d6b6a505c6bc4d4dac6defcecdbf2c78f3825a3339b6ca201c"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.17", "1.17.1", "1.18", "1.18.1", "1.18.2"]
