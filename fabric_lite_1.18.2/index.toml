@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/undergroundambientlighting.toml"
-hash = "499b2f4c83543ad37e68825e9b71804e962bcf8900f8e11c4642822aa5b76f24"
+hash = "1a236953ca14cbff62485336302364a331ab8ecda34520d2f3cf39608f66086d"
 metafile = true
 
 [[files]]
