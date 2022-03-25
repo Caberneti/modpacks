@@ -1,0 +1,13 @@
+name = "WAYF? - Where Are You From?"
+filename = "shoutout-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/VA15PhUc/versions/1.0.2/shoutout-1.0.2.jar"
+hash-format = "sha1"
+hash = "83596697201a2fbe48cdd762af4857202d004b4d"
+
+[update]
+[update.modrinth]
+mod-id = "VA15PhUc"
+version = "Yuu8iYf4"

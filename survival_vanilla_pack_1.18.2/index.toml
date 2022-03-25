@@ -1,0 +1,156 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/axes-are-weapons.toml"
+hash = "3c717ff2d339458af0565559ec2b2bf85d4105929586998d544df9b0048284b3"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.toml"
+hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "d42c9c22fa6c8350c8d31652b0bb34f58b9d33033ad74f8b938588a116bd10e5"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.toml"
+hash = "d2796ea9aaa67e2dd251c04db4bdff221d4f0a4909798a4f71496b1b10932818"
+metafile = true
+
+[[files]]
+file = "mods/fastdecay.toml"
+hash = "a9ba5acfb93e4e63528d3afd09f7ff4c01a8f092c19a56241150cd1387d00a19"
+metafile = true
+
+[[files]]
+file = "mods/floodgate-fabric.toml"
+hash = "2de9e6f31ee350947a8183b2743f5eb3b945071e1a620c9a5705b400734fda9d"
+metafile = true
+
+[[files]]
+file = "mods/geyser-fabric.toml"
+hash = "ebb7e4abb57c683c8b5c3fdcb04a7b3d8a48a52a8584164b8dc9683cc1437308"
+metafile = true
+
+[[files]]
+file = "mods/incendium.toml"
+hash = "6dbe600e847b1f126e5d88567c97d7f323e7dad7153ad795a3a4a9a327ecfc3d"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+metafile = true
+
+[[files]]
+file = "mods/mods-command.toml"
+hash = "ccf76bdaf98232d8d44132a50afc117292bb33ebbeea83ad104335b30dbfb575"
+metafile = true
+
+[[files]]
+file = "mods/perfect-accuracy.toml"
+hash = "c63643e5f77c30f66ba1291f64de7d5b3bbcab3bd53f76a5a58a69f8c3bb3ddd"
+metafile = true
+
+[[files]]
+file = "mods/polymer-ports-waystones.toml"
+hash = "9ba17c21fb50b3c597585135580aa62f2bf9b6b4c127ff7eebc4bf082bf48199"
+metafile = true
+
+[[files]]
+file = "mods/profundis.toml"
+hash = "78a7e8968297710912dd724e08528d79a188758e53c43fc6037aa9bba3f4f171"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "3c16e76f763334b1414a314dc6ae2ae6e1bb529b878f6f582bb9654a19f6562c"
+metafile = true
+
+[[files]]
+file = "mods/responsiveshields.toml"
+hash = "3c063119e50adaf3e6ac3efea8c4d27b4a77a19160252d442b5c80d030eea448"
+metafile = true
+
+[[files]]
+file = "mods/right-click-harvest.toml"
+hash = "76790dadcda0b1802e3d49b1cdde75c756fba55b54c16a0806a855d1240fd4db"
+metafile = true
+
+[[files]]
+file = "mods/servercore.toml"
+hash = "ae2d162f6843c1c3711af07bc696db5674f30966ebd0fa95911de50ec7ad9e85"
+metafile = true
+
+[[files]]
+file = "mods/servshred.toml"
+hash = "e8dd6abfd6027667637ed140c65821a66a7589f92c286548b6f27936be05144a"
+metafile = true
+
+[[files]]
+file = "mods/shoutout.toml"
+hash = "2b6d253825357fa62be209e1a3ae09165fbb5457e3733d61ab43b912facd1259"
+metafile = true
+
+[[files]]
+file = "mods/sky-villages.toml"
+hash = "0db5c3b0a977e11bff60e9a30839698f9cfc6b3d3b1aee0a6091ddb3bc4b876b"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
+
+[[files]]
+file = "mods/subterrestrial.toml"
+hash = "fa7b8d020c4b1fb9646f33a0f542664b324c0608185574054d6d6283802ae844"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.toml"
+hash = "6b5cc538bb76a4a15dd0a6e313f0cc3f9dc55e119b3e7dcb4d0c9d42801f0f15"
+metafile = true
+
+[[files]]
+file = "mods/textile_backup.toml"
+hash = "6d5394c53fc1f19d5f16ec9080740dae15e3aab8833f2ad4628e00c8c7295299"
+metafile = true
+
+[[files]]
+file = "mods/thorium.toml"
+hash = "ead259b234a4146e83a2c5a6746d55af657ae1835041db79e5d407449bbb4af0"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-additions.toml"
+hash = "75e90e05f281b55f6e21bc65dcfb4e2c958434046989ce41eb5814e3af1d74c8"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-reworked.toml"
+hash = "90b6414a25a93970daa832b06a80289904ba1242a08dc58420123895a4473461"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.toml"
+hash = "750a8ffe067e3d4b539cfc67863a9250a34372ddc731f74f3153e56e881ec6b5"
+metafile = true
