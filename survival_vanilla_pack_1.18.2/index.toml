@@ -71,13 +71,18 @@ hash = "c63643e5f77c30f66ba1291f64de7d5b3bbcab3bd53f76a5a58a69f8c3bb3ddd"
 metafile = true
 
 [[files]]
+file = "mods/pettable-bees-fabric.toml"
+hash = "fc978c602d96f714a0745085d758d3a88d420160e954f2dec0abe1d61dec3ca8"
+metafile = true
+
+[[files]]
 file = "mods/polymer-ports-waystones.toml"
 hash = "9ba17c21fb50b3c597585135580aa62f2bf9b6b4c127ff7eebc4bf082bf48199"
 metafile = true
 
 [[files]]
 file = "mods/profundis.toml"
-hash = "78a7e8968297710912dd724e08528d79a188758e53c43fc6037aa9bba3f4f171"
+hash = "cd717711739215c35dbfbab3fc7891e7804a15a062e3190bcfad0b260ad5b607"
 metafile = true
 
 [[files]]

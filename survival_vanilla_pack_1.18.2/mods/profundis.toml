@@ -1,13 +1,13 @@
 name = "Profundis"
-filename = "profundis-1.1.0.jar"
+filename = "profundis-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aucz7XCt/versions/1.1.0/profundis-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/aucz7XCt/versions/1.2.1/profundis-1.2.1.jar"
 hash-format = "sha1"
-hash = "19d1ca12d0d9302570b1e0cb85810037248463d0"
+hash = "98387edef7b1a970f1429dafa55e34da6baabc98"
 
 [update]
 [update.modrinth]
 mod-id = "aucz7XCt"
-version = "9unM8hRc"
+version = "EezCbzgC"
