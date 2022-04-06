@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "802f80954466deb7316c46d67195701d192a7c13c0aaefb62cfe8c906376db71"
+hash = "d42c9c22fa6c8350c8d31652b0bb34f58b9d33033ad74f8b938588a116bd10e5"
 metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "c34f69763f1c899b052b6ce43bfa404a01e2b11d81382957267262d2d7de6074"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
 
 [[files]]

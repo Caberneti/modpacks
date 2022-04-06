@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer-ports-waystones.toml"
-hash = "9ba17c21fb50b3c597585135580aa62f2bf9b6b4c127ff7eebc4bf082bf48199"
+hash = "c9e3af02bd9be9bf2d3a7ff23c6433eac314d052993bd998a4659ed5cde65684"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "3c16e76f763334b1414a314dc6ae2ae6e1bb529b878f6f582bb9654a19f6562c"
+hash = "3afd354e3ce2578abea71d6c5cd03317665520ec0a0b4cc341eb32aaea800c01"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/thorium.toml"
-hash = "ead259b234a4146e83a2c5a6746d55af657ae1835041db79e5d407449bbb4af0"
+hash = "bf2925b66d19c6dc81cc4c0af7e0fbe2d971b1fd94dbb4bb5e1600896eecf152"
 metafile = true
 
 [[files]]
