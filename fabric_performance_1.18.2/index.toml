@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d42c9c22fa6c8350c8d31652b0bb34f58b9d33033ad74f8b938588a116bd10e5"
+hash = "56341f743528a406c4d51f22ba1640dca5c475696a9c21d8924b4813accdfa71"
 metafile = true
 
 [[files]]

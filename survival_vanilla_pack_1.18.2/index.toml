@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d42c9c22fa6c8350c8d31652b0bb34f58b9d33033ad74f8b938588a116bd10e5"
+hash = "56341f743528a406c4d51f22ba1640dca5c475696a9c21d8924b4813accdfa71"
 metafile = true
 
 [[files]]
 file = "mods/fallingtree.toml"
-hash = "d2796ea9aaa67e2dd251c04db4bdff221d4f0a4909798a4f71496b1b10932818"
+hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "3afd354e3ce2578abea71d6c5cd03317665520ec0a0b4cc341eb32aaea800c01"
+hash = "a250c606f11e728ea62cb34cb8a96eb44d3399a286cc48fa1cf60be5f12b51f8"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/towers-of-the-wild-additions.toml"
-hash = "75e90e05f281b55f6e21bc65dcfb4e2c958434046989ce41eb5814e3af1d74c8"
+hash = "ab69426b7e810d0b1812aaaf886ee2034cc8e4dd1b5f8cb000166cdbe54d6cc1"
 metafile = true
 
 [[files]]
