@@ -166,6 +166,11 @@ hash = "ceb6914dc615c4af05e942bb82011dc7d69f8a5051d35ddbaf958419d04b18a3"
 metafile = true
 
 [[files]]
+file = "mods/malilib.toml"
+hash = "fd88ab8b23121cea2b1c7d05f2b7cbbe76b93ced03d6b98f0b212521ccb0ecb2"
+metafile = true
+
+[[files]]
 file = "mods/mcwifipnp.toml"
 hash = "33af449226fc5561e702c103433fa9d6be91093b45c8fcc2483e333c6540244d"
 metafile = true
