@@ -1,6 +1,31 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advancedchatcore.toml"
+hash = "f7666584dfbc5d90f0af3b32a69ce2491495b0a9044b59a4362e30b7cad62e93"
+metafile = true
+
+[[files]]
+file = "mods/advancedchatfilters.toml"
+hash = "fa5f85d4b3ec43ca0ed289d95cd5fce3e2d43191aee221a3daf01e4cdd9410ad"
+metafile = true
+
+[[files]]
+file = "mods/advancedchathud.toml"
+hash = "1f4fd03589f9eeb2a0cd17e0e2c9cad82b12fe63bb8b8fc457f034bc0982747c"
+metafile = true
+
+[[files]]
+file = "mods/advancedchatlog.toml"
+hash = "95f14067c39bf574182e9237c5d925916f4ea679eec910e50a3b1a4b5a8ef088"
+metafile = true
+
+[[files]]
+file = "mods/advancedchatmacros.toml"
+hash = "08a86064b6f6b010827d88274bb35fab21a34c2480db3e3c4083d3d46d87f409"
+metafile = true
+
+[[files]]
 file = "mods/animatica.toml"
 hash = "139cd6adb184c22de6662545eee84a3acb5d1da2a606d31da977b23bbb330b21"
 metafile = true
@@ -137,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/logical-zoom.toml"
-hash = "faf9924a7e1591f9ec1de1c9116a7041a4654b83e4c7d88ae4fcf954af980853"
+hash = "ceb6914dc615c4af05e942bb82011dc7d69f8a5051d35ddbaf958419d04b18a3"
 metafile = true
 
 [[files]]
@@ -163,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/nameless-servers.toml"
 hash = "659137c137d497c09e3701047b8acd6b7ec18db1a8c33cc969f5d47c42ec398a"
+metafile = true
+
+[[files]]
+file = "mods/noautojump.toml"
+hash = "13e5accf2e05c43014a46c41b2c6b4d32ff4aa0df3363b6903164a00105b3430"
 metafile = true
 
 [[files]]
@@ -201,6 +231,11 @@ hash = "3e723eefde3af8c48ea424018106868bcadbccd9546666a3b2c57823886b0072"
 metafile = true
 
 [[files]]
+file = "mods/skin-layers-3d.toml"
+hash = "211beaf63d3e68db103fd36807c17df58755141e786d7240a968a6c8b796ebca"
+metafile = true
+
+[[files]]
 file = "mods/smooth-swapping.toml"
 hash = "6da0c0e30c84d3d7d9e6b521830c6d5027f842cc9d93f9d96f069aff02922d62"
 metafile = true
@@ -223,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/statuseffecttimer.toml"
 hash = "3610cc0efd4c0bfa58b962452b7ee2c735f3c9a86c66b175a5c186258aaeecc7"
+metafile = true
+
+[[files]]
+file = "mods/symbol-chat.toml"
+hash = "74cda961db7e904fa3b3db714c8fdfc8c4110b2fb4ab51b03311df70d5197ee1"
 metafile = true
 
 [[files]]

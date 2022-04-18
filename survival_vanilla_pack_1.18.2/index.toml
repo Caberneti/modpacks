@@ -21,6 +21,11 @@ hash = "56341f743528a406c4d51f22ba1640dca5c475696a9c21d8924b4813accdfa71"
 metafile = true
 
 [[files]]
+file = "mods/fabricautocrafter.toml"
+hash = "21e5d8e77d76cca968b7a513d2c5bf8f970cd92520df3d8e2afd100a9a65e6a9"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.toml"
 hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
 metafile = true
