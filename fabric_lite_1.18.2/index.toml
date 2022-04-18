@@ -231,6 +231,11 @@ hash = "c5a983620ec2c1a72c58d5a7ce74fdc76084cb8fa7bf1f18ca1ae11e27ded513"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "3e723eefde3af8c48ea424018106868bcadbccd9546666a3b2c57823886b0072"
 metafile = true
