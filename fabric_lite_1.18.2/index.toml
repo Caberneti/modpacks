@@ -136,11 +136,6 @@ hash = "7d40bcc67b4a6c0e1e6e0d0d586ac506834c8df3e906e3a029c39836d5ef2821"
 metafile = true
 
 [[files]]
-file = "mods/figura.toml"
-hash = "1b747d0c25d421970b1c1df0561c1ece1188fef88f1d5611c55652fdd18870d4"
-metafile = true
-
-[[files]]
 file = "mods/indium.toml"
 hash = "df864fbe0b2602c2a0455b789e5e22f65ce1770994dbf3c6fe22a6b4ba9147b7"
 metafile = true
