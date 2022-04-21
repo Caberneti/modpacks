@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "56341f743528a406c4d51f22ba1640dca5c475696a9c21d8924b4813accdfa71"
+hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "a250c606f11e728ea62cb34cb8a96eb44d3399a286cc48fa1cf60be5f12b51f8"
+hash = "0348f4a4b3c14f9de63f62109d2b4395866a01f1bbeec0bbe14c8efe1f99eed1"
 metafile = true
 
 [[files]]
