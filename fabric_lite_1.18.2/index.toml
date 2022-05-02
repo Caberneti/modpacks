@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
+hash = "612eb5b02d9f18e9c5327bb96373c692c72c9ebbae3541eea03feda76dcd764a"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.toml"
-hash = "3dc8afb222b72064fe76daa8f09d159f95f6d96cbfa9fe246b9d5ae87ae084ae"
+hash = "ac4ef5d0e3ee33ed06232cf813b710f2f39e38718ff064fd7f7853080c53a526"
 metafile = true
 
 [[files]]
@@ -132,12 +132,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "7d40bcc67b4a6c0e1e6e0d0d586ac506834c8df3e906e3a029c39836d5ef2821"
+hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "df864fbe0b2602c2a0455b789e5e22f65ce1770994dbf3c6fe22a6b4ba9147b7"
+hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "e14ec21802432c7da8fd1746c3704d4cc86a66685ae3d32c0fce88b6a7a15818"
+hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.toml"
-hash = "e96382dc2f00318804171da24bab458c69198febbf5a8047c07737aa38a5ca45"
+hash = "8725ecd93d424fbde33676ca47f75ddd51ac33b4389b1670a977b934ece49e69"
 metafile = true
 
 [[files]]
@@ -232,12 +232,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "3e723eefde3af8c48ea424018106868bcadbccd9546666a3b2c57823886b0072"
+hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
 metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "211beaf63d3e68db103fd36807c17df58755141e786d7240a968a6c8b796ebca"
+hash = "cfc911e385551cd44cdf5aec60d677d7d5078b86c6c9e193895a512ae88b0dc5"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/symbol-chat.toml"
-hash = "74cda961db7e904fa3b3db714c8fdfc8c4110b2fb4ab51b03311df70d5197ee1"
+hash = "abf94eb98891d5231774482aee27751c95123dd4a3326e9c100f80865c65b431"
 metafile = true
 
 [[files]]
@@ -277,5 +277,5 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.toml"
-hash = "fe94921ebbdb0866ed1da7289586704162a7f0c3c51f88444830bbf0e6148f69"
+hash = "66826e1b1c4cec09203516fefe7d9ada6cfbe56107c6e8d50b16564dca80c705"
 metafile = true
