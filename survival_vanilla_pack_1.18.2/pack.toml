@@ -1,12 +1,12 @@
 name = "survival_vanilla_pack"
 author = "Wine"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "633e685adf6260a1cc2aad6920b127c8ef4e4fba79d2ebfae36537a64db17223"
+hash = "0e6981f1cab39ef928f48f5902d26e66ae59b7fd0fa67543cef5b61849b44340"
 
 [versions]
 fabric = "0.13.3"

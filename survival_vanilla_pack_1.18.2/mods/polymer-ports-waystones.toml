@@ -1,13 +1,14 @@
 name = "Waystones (Polymer Port)"
-filename = "wraith-waystones-2.5.0-polymerport.1.jar"
+filename = "wraith-waystones-2.5.1-polymerport.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/gU9Ao8K2/versions/2.5.0-polymerport.1/wraith-waystones-2.5.0-polymerport.1.jar"
+url = "https://cdn.modrinth.com/data/gU9Ao8K2/versions/2.5.1-polymerport.0/wraith-waystones-2.5.1-polymerport.0.jar"
 hash-format = "sha1"
-hash = "7598e7641c3c8a6235b9a79f313cd23764895e78"
+hash = "c8593302f7b85e576fd85df4c193172d925f25a2"
+mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "gU9Ao8K2"
-version = "MzKVM0WR"
+version = "tNIC1Om7"

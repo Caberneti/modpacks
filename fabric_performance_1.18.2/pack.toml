@@ -1,12 +1,12 @@
 name = "1.18.2 Performance"
 author = "Wine"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b83be35355dfa456da6c6e553ca63286bea4da283025cfc8035c9302f54b1a5e"
+hash = "9f32cb883ac9c8b6b96a824fba606142067918f18998ad84049fe3bb9dbc206c"
 
 [versions]
 fabric = "0.13.3"

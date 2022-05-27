@@ -1,12 +1,12 @@
 name = "Fabric Lite 1.18.2"
 author = "Wine"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d6300ad7c0ce0db6ecc22f1a64ae2d20dbc1d728d87fa5685c28780042d505a4"
+hash = "83dacceb109a7cfbfaaf427f7c5c424d6545cb5c1e2e7461887bc4a43e7276e1"
 
 [versions]
 fabric = "0.13.3"

@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
+hash = "736583b1e65ea2d82385279e785ed5ffe0bb52387c6c624d9b61d6366c4ccbc5"
 metafile = true
 
 [[files]]
@@ -62,12 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
 metafile = true
 
 [[files]]
 file = "mods/mods-command.toml"
-hash = "ccf76bdaf98232d8d44132a50afc117292bb33ebbeea83ad104335b30dbfb575"
+hash = "ae67afeefc6270d3865948ccc8e9480f5d1c491253f776c150f26f607d173eb7"
 metafile = true
 
 [[files]]
@@ -82,17 +82,17 @@ metafile = true
 
 [[files]]
 file = "mods/polymer-ports-waystones.toml"
-hash = "c9e3af02bd9be9bf2d3a7ff23c6433eac314d052993bd998a4659ed5cde65684"
+hash = "989f69fbeb7d393fdee95c6973be4f3b8616120f4f7362c96cdde8e05f379a63"
 metafile = true
 
 [[files]]
 file = "mods/profundis.toml"
-hash = "cd717711739215c35dbfbab3fc7891e7804a15a062e3190bcfad0b260ad5b607"
+hash = "9715cab2cff282cb827143daec3d4cd08e1b94af84f994f9d901d6367300433f"
 metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "0348f4a4b3c14f9de63f62109d2b4395866a01f1bbeec0bbe14c8efe1f99eed1"
+hash = "64fa5ecce5d8f39948eb63786489be3de10154a62d53fff05aaf861cee80095f"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/tabtps.toml"
-hash = "6b5cc538bb76a4a15dd0a6e313f0cc3f9dc55e119b3e7dcb4d0c9d42801f0f15"
+hash = "3bdc0de0fc407f0b3cf4380951de0909987de31dc73365e25acc67a5afa83793"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/thorium.toml"
-hash = "bf2925b66d19c6dc81cc4c0af7e0fbe2d971b1fd94dbb4bb5e1600896eecf152"
+hash = "04ab3ac353bcf844e566119ab7d1a89947dc07792d68d476e38ad6207039daba"
 metafile = true
 
 [[files]]
