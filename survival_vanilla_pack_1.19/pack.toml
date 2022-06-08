@@ -1,0 +1,16 @@
+name = "survival_vanilla_pack"
+author = "Wine"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "59f516e6ac7def4b344b13d25d6d1b3c775536bb65bf72d0b18358439e4e886d"
+
+[versions]
+fabric = "0.14.6"
+minecraft = "1.19"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19-pre1", "1.19-pre2", "1.19-pre3", "1.19-pre4", "1.19-pre5", "1.19-rc1", "1.19-rc2"]

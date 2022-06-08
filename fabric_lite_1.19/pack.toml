@@ -1,0 +1,16 @@
+name = "Fabric Lite 1.19"
+author = "Wine"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "71ab1a137a70623fddd733c723224a7d0bd1731d6d70f4e644bd029791908d24"
+
+[versions]
+fabric = "0.14.6"
+minecraft = "1.19"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19-pre1", "1.19-pre2", "1.19-pre3", "1.19-pre4", "1.19-pre5", "1.19-rc1", "1.19-rc2"]

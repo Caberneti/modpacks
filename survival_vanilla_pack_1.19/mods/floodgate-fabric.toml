@@ -1,0 +1,9 @@
+name = "Floodgate"
+filename = "floodgate-fabric.jar"
+side = "server"
+
+[download]
+url = "https://ci.opencollab.dev/job/GeyserMC/job/Floodgate-Fabric/job/master/65/artifact/build/libs/floodgate-fabric.jar"
+
+hash-format = "sha256"
+hash = "6F52EDB8EA27BE037BA71FCC2BC6AC5D6044D97BD6A2EF64CE04EC23AE596996"

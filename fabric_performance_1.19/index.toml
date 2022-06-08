@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "f8a26df27fe9676b6267677155a6f030a4856beff5ae4fee8f21c3f3d44a98d9"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "2bd6bb34cc34e9010c35d30ef21e71fa63386c6a7b2bbe16f7c1369db10c693f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "f8784a0fc67a28151c4b19fd6b8aab83cf76843aed4c49be5df6441a3e3c4960"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "c77f162c7072a9bb922faf3bd5f223ce4f57973d531cc32484a7dcf72d2e1f51"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "4f83b1ed4b7b6c60db39a22a2f9b4c30ead0f475e27c6e98f0a16e69564269eb"
+metafile = true

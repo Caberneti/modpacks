@@ -1,0 +1,13 @@
+name = "🗻 Underground Ambient Lighting"
+filename = "undergroundambientlighting-2.0.0+1.18-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7tZEgyix/versions/2.0.0+1.18_exp-fabric/undergroundambientlighting-2.0.0+1.18-fabric.jar"
+hash-format = "sha1"
+hash = "f92ad3c34eec12680b4d7d49b9ce736b2a189e13"
+
+[update]
+[update.modrinth]
+mod-id = "7tZEgyix"
+version = "laSwBhuK"
