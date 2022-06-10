@@ -1,13 +1,14 @@
 name = "FabricAutoCrafter"
-filename = "fabricautocrafter-1.0.4.jar"
+filename = "fabricautocrafter-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wbqioEpc/versions/1.0.4/fabricautocrafter-1.0.4.jar"
+url = "https://cdn.modrinth.com/data/wbqioEpc/versions/1.0.5/fabricautocrafter-1.0.5.jar"
 hash-format = "sha1"
-hash = "ec250bd4957389501c60df007f2cc9f12f55fc71"
+hash = "af3456bd4280cc4e92890eb23a9259aae954dfef"
+mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "wbqioEpc"
-version = "OGNZg0it"
+version = "2vk4ZuBR"
