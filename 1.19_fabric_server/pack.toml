@@ -1,0 +1,16 @@
+name = "1.19 Fabric Server"
+author = "Wine"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c6daece4a9b2c9428e9f8c4e25006ca46f2fdae4de6c33ab5fb07b4a26f458ab"
+
+[versions]
+fabric = "0.14.7"
+minecraft = "1.19"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19-rc1", "1.19-rc2"]

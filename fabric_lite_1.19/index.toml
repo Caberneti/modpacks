@@ -101,6 +101,11 @@ hash = "8baa4174662b93a9e2e177a4cb937565b5e1f54aaa498cd9e2a5305c14892686"
 metafile = true
 
 [[files]]
+file = "mods/dcwa.pw.toml"
+hash = "3e3b373cae9af2a03e146bf8bee744e5fda5213fc8f5e52afbdf375b1a01232f"
+metafile = true
+
+[[files]]
 file = "mods/dcwa.toml"
 hash = "60134dc6ce2d30c5a16367a1b21d32d3964f5fd508654d7f4232471d9aad8163"
 metafile = true
@@ -188,6 +193,16 @@ metafile = true
 [[files]]
 file = "mods/nameless-servers.toml"
 hash = "659137c137d497c09e3701047b8acd6b7ec18db1a8c33cc969f5d47c42ec398a"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "bd8ae6e3e869b80a2edb09b612c745105e085111b19e197269e12016359e6701"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "ef0ad7353b79f507bd76c56716e8a6fc717cf3ab90135e0466fe39eb4662ab92"
 metafile = true
 
 [[files]]
