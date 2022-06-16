@@ -1,0 +1,13 @@
+name = "Malus Phaethusa"
+filename = "malusphaethusa-1.19-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93fc2e0f2921e8576c808a998cea9bbd1615dc28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3822602
+project-id = 519902

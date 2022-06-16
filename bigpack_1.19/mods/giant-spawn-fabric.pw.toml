@@ -1,0 +1,13 @@
+name = "Giant Spawn (Fabric)"
+filename = "giantspawn-fabric_1.19.x-2.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f922c84492e8364627dc6a682b7f535cc762d446"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3821576
+project-id = 541186

@@ -1,0 +1,14 @@
+name = "Blossom"
+filename = "blossom-fabric-1.19-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iYVih5qu/versions/Fabric-1.19-1.0.5/blossom-fabric-1.19-1.0.5.jar"
+hash-format = "sha1"
+hash = "91bbb5c4ba72961532bbe63c3ab5c1ab8603b9fe"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "iYVih5qu"
+version = "TLl7Pn8z"

@@ -1,0 +1,13 @@
+name = "Rat's Mischief 🐀"
+filename = "ratsmischief-1.3.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4e3f298580d21f3f333784c8d9bd4fa9a2f500e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3823649
+project-id = 431787

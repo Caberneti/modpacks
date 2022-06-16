@@ -1,0 +1,13 @@
+name = "Cauldron Dyeing"
+filename = "cauldron-dyeing-1.0.3+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eaf6a3739215a5246f95a20b7c5b201fa6ca66a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3824446
+project-id = 564870

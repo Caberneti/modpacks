@@ -1,0 +1,13 @@
+name = "Bigpack 1.19"
+author = "Wine"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4d82f10252b6b2c8fbc577ff0be0b91678022d1043841c390fa8c56155cc64df"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19"

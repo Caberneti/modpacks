@@ -1,0 +1,13 @@
+name = "Magical Forest"
+filename = "MagicalForest-fabric-1.19-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a0bdd2905b341f9fb76271ddc383742c88104c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3823601
+project-id = 383666

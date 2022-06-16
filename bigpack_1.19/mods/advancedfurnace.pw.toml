@@ -1,0 +1,14 @@
+name = "Advanced Furnace"
+filename = "advanced-furnace-mod-1.19-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e3RoZUwe/versions/1.4.0/advanced-furnace-mod-1.19-1.4.0.jar"
+hash-format = "sha1"
+hash = "97b7f14ade67f6441a9044a671d5ebeef9ba786c"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "e3RoZUwe"
+version = "vAPqjgCp"

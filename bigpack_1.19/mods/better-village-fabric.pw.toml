@@ -1,0 +1,13 @@
+name = "Better Villages - Fabric"
+filename = "BetterVillage-Fabric-1.19-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66195bb75debc1ccd8e11a132ae61d9e358f4350"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3831237
+project-id = 615351

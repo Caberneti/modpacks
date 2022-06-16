@@ -1,0 +1,13 @@
+name = "Capybara [Fabric]"
+filename = "capybara-1.19-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26fbdfe87b64614f64aea30e404f17eb761cb57d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3822551
+project-id = 549031

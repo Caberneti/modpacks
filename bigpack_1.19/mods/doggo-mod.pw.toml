@@ -1,0 +1,14 @@
+name = "Doggo Mod"
+filename = "doggomod-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jCtoW8j3/versions/1.2.0/doggomod-1.2.0.jar"
+hash-format = "sha1"
+hash = "336edb584f542104ab2591fcb7f3b5a88615ede2"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "jCtoW8j3"
+version = "pHfEPvPp"

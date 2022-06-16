@@ -1,0 +1,14 @@
+name = "Aphid Additions"
+filename = "mantori-1.1.0-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NuFaaaWe/versions/1.1.0/mantori-1.1.0-1.19.jar"
+hash-format = "sha1"
+hash = "bc0aa3f87c0a61899b8e42f12c6ff3ce97611184"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "NuFaaaWe"
+version = "EIlTSSa4"

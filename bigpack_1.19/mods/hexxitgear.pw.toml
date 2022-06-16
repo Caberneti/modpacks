@@ -1,0 +1,14 @@
+name = "Hexxit Gear"
+filename = "hexxitgear-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m0HfPZvL/versions/v1.3.2/hexxitgear-1.3.2.jar"
+hash-format = "sha1"
+hash = "0ad5e023caae55f7b402208b086376767f6bbccf"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "m0HfPZvL"
+version = "I5HYDGCH"
