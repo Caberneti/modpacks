@@ -51,6 +51,11 @@ hash = "ca5dc4433cc87706d1eec4cce7a92eb67d8eb36c96bb15cc8dcbff4db2c78301"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "690a102c313737955643c903e57ded694eb7d52889b2aea69d55cc99946096b0"
+metafile = true
+
+[[files]]
 file = "mods/perfect-accuracy.pw.toml"
 hash = "c2765518ee95c0d9c975284b2beef1f70042f3bfe7f2290a415512eaf729fa7d"
 metafile = true
