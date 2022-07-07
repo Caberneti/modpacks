@@ -31,11 +31,6 @@ hash = "d0737a2d8a19bb0f760c34e274cc12e11c701b1d7adc1eaba72ad6ce4132a9da"
 metafile = true
 
 [[files]]
-file = "mods/dataloader.pw.toml"
-hash = "42627117d1f786e9a22d086f2c2151cc877801e6f6e804496ef1af9c30256001"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "229e51aae32ef7116a8ed9847a6ce64512af388a656df0b3ec2222c87c4f7b54"
 metafile = true
