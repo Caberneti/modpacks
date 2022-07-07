@@ -1,0 +1,14 @@
+name = "Apollo's Additional Structures"
+filename = "aas-1.19_1.1.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xum0aBUy/versions/1.1.3/aas-1.19_1.1.3.jar"
+hash-format = "sha1"
+hash = "3a30270d9be187b3fa775599eb685434a160fc9a"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "xum0aBUy"
+version = "kf5WueeY"

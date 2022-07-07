@@ -1,9 +1,0 @@
-name = "Geyser"
-filename = "Geyser-Fabric-2.0.2-SNAPSHOT.jar"
-side = "server"
-
-[download]
-url = "https://ci.opencollab.dev/job/GeyserMC/job/Geyser-Fabric/job/java-1.18/lastSuccessfulBuild/artifact/build/libs/Geyser-Fabric-2.0.2-SNAPSHOT.jar"
-
-hash-format = "sha256"
-hash = "6EC8C816DB9E6C7588D118A4540DFE82E213C4255581DB9510202B7FDC0C6352"

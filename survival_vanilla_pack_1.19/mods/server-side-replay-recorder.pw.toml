@@ -1,0 +1,14 @@
+name = "thecolonel63's Server Side Replay Recorder"
+filename = "serversidereplayrecorder-1.0.4-1.19.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/i7rbL330/versions/v1.0.4/serversidereplayrecorder-1.0.4-1.19.jar"
+hash-format = "sha1"
+hash = "93d6097c1e66d6fd6387953f331df0fd311a8f6c"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "i7rbL330"
+version = "jsgYKt7R"

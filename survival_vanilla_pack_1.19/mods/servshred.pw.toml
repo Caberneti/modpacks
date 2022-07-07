@@ -6,6 +6,7 @@ side = "server"
 url = "https://cdn.modrinth.com/data/i3cdr5n6/versions/1.0.8/servshred-1.0.8.jar"
 hash-format = "sha1"
 hash = "2fb7488beeffeb9dd4ad0bd0ac3991bceb233586"
+mode = ""
 
 [update]
 [update.modrinth]

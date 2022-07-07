@@ -1,0 +1,14 @@
+name = "Illager Expansion (Polymer Port)"
+filename = "illager_expansion+polymerport.0-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/zkp424MG/versions/1.0.0/illager_expansion%2Bpolymerport.0-1.0.0.jar"
+hash-format = "sha1"
+hash = "ab5928e182ed49a721f6cafd84fc2c63c7d8b1b4"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "zkp424MG"
+version = "Mvjlcozy"
