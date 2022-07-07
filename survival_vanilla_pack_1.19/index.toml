@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/annotated-di.pw.toml"
+hash = "5f5eabb4774fc700b989ee9a36efeccdbbf72f99485fd01135fdb9b3554c8332"
+metafile = true
+
+[[files]]
 file = "mods/apollos-additional-structures.pw.toml"
 hash = "0c065a0e22ba477fa208afb5dc61ecb2e9bf15e44e9e7e663167944f731ba60f"
 metafile = true
@@ -51,6 +56,11 @@ hash = "87f056062378f276e55d07a577ff6c734bb9af9ea2b5591c424f7c381f82a552"
 metafile = true
 
 [[files]]
+file = "mods/fireplace-lib.pw.toml"
+hash = "5d0d0ff50b73d023d6f7e732d9b714f023162ad2e30d94593e541070bce7970b"
+metafile = true
+
+[[files]]
 file = "mods/ihgm.pw.toml"
 hash = "1d18fe12c9830cbf1cfdd16bdaab75dd48fe0af7a76658a3951eb9d35474f8fa"
 metafile = true
@@ -63,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "a03e508db721432f32bbc99640ed893fdf74cc894a3c2c3f6019e2f233c8623f"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "794b774de2c601a2d79c986866c5585728371fa4f9c3338828ad07b8794aefbf"
 metafile = true
 
 [[files]]
