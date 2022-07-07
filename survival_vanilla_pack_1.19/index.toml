@@ -21,6 +21,11 @@ hash = "79e401cbbbf80b81201ab6ec84ada01e4ee7079ff9b6231d36bcf2911ddf89a5"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "dbf2c28de7653648cca1bfb357ff393fe8a7b3bd06dbcfc6780b91e63b7b9e82"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "d0737a2d8a19bb0f760c34e274cc12e11c701b1d7adc1eaba72ad6ce4132a9da"
 metafile = true
